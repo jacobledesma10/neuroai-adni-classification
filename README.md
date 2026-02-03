@@ -139,7 +139,7 @@ AI should enhance—not replace—clinical judgment.
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/neuroai-adni-classification.git
+git clone https://github.com/jacobledesma10/neuroai-adni-classification.git
 cd neuroai-adni-classification
 python -m venv venv
 source venv/bin/activate
