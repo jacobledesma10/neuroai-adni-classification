@@ -141,5 +141,6 @@ AI should enhance—not replace—clinical judgment.
 ```bash
 git clone https://github.com/yourusername/neuroai-adni-classification.git
 cd neuroai-adni-classification
+python -m venv venv
+source venv/bin/activate
 pip install -r requirements.txt
-
